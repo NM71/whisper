@@ -2,6 +2,10 @@
 
 AI Chat App integrated with ChaGPT
 
+![image](https://github.com/NM71/whisper/assets/123181737/d86ff50c-fb4c-404e-972d-e920e49c5a26)
+![image](https://github.com/NM71/whisper/assets/123181737/56d63666-03b6-4f53-ac13-5da3d992a01a)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
